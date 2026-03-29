@@ -55,3 +55,37 @@ The test plan simulates real user behavior and validates API responses, status c
 
 1. Install Apache JMeter
 2. Open the project file:
+3. Configure Thread Group if needed:
+- Number of Threads (users)
+- Ramp-up period
+4. Click the **Start (▶)** button to execute the test
+5. View results in:
+- View Results Tree
+- Reports / Listeners
+
+---
+
+## 📊 Key Features
+
+- Automated API testing using JMeter
+- Token extraction and reuse
+- Data-driven testing
+- Response validation using assertions
+- Modular test design using controllers
+
+---
+
+## 🎯 Purpose
+
+The goal of this project is to:
+- Practice API testing using JMeter
+- Simulate real-world user workflows
+- Validate backend APIs
+- Demonstrate test automation skills
+
+---
+
+## 👩‍💻 Author
+
+Fatima Ibrahim  
+QA / Software Testing Enthusiast
